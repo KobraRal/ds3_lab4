@@ -16,4 +16,3 @@
     <ProjectReference Include="..\..\dotnet-core-api-master\TodoApi.csproj" />
   </ItemGroup>
 
-</Project>
